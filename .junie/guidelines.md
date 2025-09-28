@@ -104,6 +104,8 @@ Scope
   - Qodana is configured via qodana.yml. Run locally with Docker or the Qodana Gradle task if desired.
 - CI/CD:
   - GitHub Actions workflows present: build.yml, release.yml, run-ui-tests.yml; Dependabot is enabled.
+- Git Commit Messages:
+  - Always use Conventional Commits (https://www.conventionalcommits.org/en/v1.0.0/) for commit messages.
 
 4) Quickstart Commands
 - Build: ./gradlew build
