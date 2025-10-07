@@ -1,3 +1,7 @@
+---
+apply: always
+---
+
 SwiftLintRedux – Developer Guidelines
 
 Scope
